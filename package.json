@@ -1,5 +1,5 @@
 {
-  "name": "directory_manager",
+  "name": "@FathiGuemri/dirmanager",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,14 @@
   "bin": {
     "dirmanager": "./dist/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "fathi guemri",
+  "license": "ISC",
+  "repository": "https://github.com/FathiGuemri/dirmanager",
+  "homepage": "https://github.com/FathiGuemri/dirmanager#readme",
   "license": "ISC",
   "dependencies": {
     "commander": "^10.0.1",
